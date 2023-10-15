@@ -1,0 +1,98 @@
+/* Reset some default styles */
+body, h1, p {
+    margin: 50px;
+    padding: 20px;
+  }
+  
+  /* Basic styling for the body */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 32px;
+  }
+  
+  .between {
+    font-size: 16px;
+  }
+ 
+  
+  .btn.again {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+
+  }
+  
+  /* Main styles */
+  main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  /* Left section styles */
+  .left {
+    text-align: center;
+  }
+  
+  .guess {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .btn.check {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  /* Right section styles */
+  .right {
+    text-align: center;
+  }
+  
+  .message {
+    font-size: 18px;
+    padding: 30px;
+  }
+  
+  .label-score,
+  .label-highscore {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  /* Add some styling for the number */
+  .number {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  
